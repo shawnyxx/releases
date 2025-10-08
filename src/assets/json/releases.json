@@ -1,0 +1,67 @@
+{
+  "featured": [
+    {
+      "title": "Example Release",
+      "slug": "example-release",
+      "author": "Ecxo Games",
+      "description": "An example release description.",
+      "image": "https://example.com/image.png",
+      "content": {
+        "header": {
+          "title": "Example Release Header",
+          "subtitle": "Subtitle for the example release",
+          "image": "https://example.com/header-image.png"
+        },
+        "body": {
+          "sections": [
+            {
+              "type": "text",
+              "content": "This is an example of a text section in the body of the release."
+            },
+            {
+              "type": "image",
+              "url": "https://example.com/body-image.png",
+              "caption": "An example image in the body."
+            },
+            {
+              "type": "list",
+              "items": [
+                "First item in a list",
+                "Second item in a list",
+                "Third item in a list"
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "text": "Footer text for the example release.",
+          "links": [
+            {
+              "label": "Learn More",
+              "url": "https://example.com/learn-more"
+            },
+            {
+              "label": "Contact Us",
+              "url": "https://example.com/contact"
+            }
+          ]
+        }
+      },
+      "releaseDate": "2024-06-01",
+      "version": "1.0.0",
+      "downloadLink": "https://example.com/download",
+      "tags": [
+        "example",
+        "release",
+        "demo"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    }
+  ],
+  "ecxogames_exclusive": [],
+  "all": []
+}
